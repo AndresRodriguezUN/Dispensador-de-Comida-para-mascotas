@@ -7,4 +7,6 @@
 Este es el repositorio para el grupo 3 de sistemas embebidos
 
  :shipit:
+ 
+ ### Viaje del cliente
 ![Screenshot](/Imagenes/Imagen1.png)
