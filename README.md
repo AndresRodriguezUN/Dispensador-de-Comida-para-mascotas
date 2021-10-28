@@ -1,4 +1,4 @@
-# Dispensador de Comida para mascotas 🐱
+# Dispensador de Comida para mascotas 🐱 🐶
 ## Autores :fountain_pen:
 - Diego Steven Peña Cortes :mechanic:
 - Daniel Machado Roa :technologist:
