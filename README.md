@@ -8,6 +8,7 @@ Este es el repositorio del proyecto final de la asignatura Sistemas Emebidos del
  
  ## Proyecto
  El proyecto consiste en un dispensador de comida para mascotas que dispone de funcionalidades como la comunicacion con una app movil que permite la configuracion del dispositivo y el funcionamiento del mismo. Dentro del funcionamiento se encuentra la programacion de los horarios de alimentacion, asi como la interaccion entre el usuario-dispositivo-mascota.
+ 
 Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la mascota esta comiendo, ademas de los horarios que frecuenta el dispositivo. Y de esta manera, puede realizar un analisis de los datos y retroalimentar al usuario por medio de la actualizacion de los comportamientos de su mascota frente al dispositivo. Permitiendo que no se pierda la conexion que tiene el usuario con su mascota.  
  
  
