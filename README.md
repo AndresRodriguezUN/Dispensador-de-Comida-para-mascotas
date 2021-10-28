@@ -11,4 +11,4 @@ Este es el repositorio para el grupo 3 de sistemas embebidos
  ### Viaje del cliente
 ![Screenshot](/Imagenes/Imagen1.png)
  ### Viaje de la mascosta
-![Screenshot](/Imagenes/viaje_mascota.png)
+![Screenshot](/Imagenes/Viaje_mascota.png)
