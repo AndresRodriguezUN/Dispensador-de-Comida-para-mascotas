@@ -4,7 +4,7 @@
 - Daniel Machado Roa :technologist:
 - Andrés Felipe Rodríguez Contreras :office_worker:
 
-Este es el repositorio para el grupo 3 de sistemas embebidos
+Este es el repositorio del proyecto final de la asignatura Sistemas Emebidos del semestre 2021-II (Universidad Nacional de Colombia - Sede Bogotá). A continuación se mostrará el proyecto de un Dispensador de Comida conformado por una arquitectura de SoC, donde a partir de un micropocesador y diferentes periféricos se realizan operaciones que permiten al dispensador vincularse con un dispositivo movil para configurar la alimentación de la mascota.
 
  :shipit:
  
