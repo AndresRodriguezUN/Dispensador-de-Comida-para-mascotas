@@ -9,6 +9,6 @@ Este es el repositorio para el grupo 3 de sistemas embebidos
  :shipit:
  
  ### Viaje del cliente
-![Screenshot](/Imagenes/Imagen1.png)
+![Screenshot](/Imagenes/Viaje_usuario.PNG)
  ### Viaje de la mascosta
 ![Screenshot](/Imagenes/Viaje_mascota.PNG)
