@@ -17,4 +17,4 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  ### Viaje de la mascosta
 ![Screenshot](/Imagenes/Viaje_mascota.PNG)
  ### SoC
-
+![Screenshot](/Imagenes/SoC.PNG) 
