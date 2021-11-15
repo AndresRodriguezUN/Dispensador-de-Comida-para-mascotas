@@ -11,10 +11,8 @@ Este es el repositorio del proyecto final de la asignatura Sistemas Emebidos del
  
 Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la mascota esta comiendo, ademas de los horarios que frecuenta el dispositivo. Y de esta manera, puede realizar un analisis de los datos y retroalimentar al usuario por medio de la actualizacion de los comportamientos de su mascota frente al dispositivo. Permitiendo que no se pierda la conexion que tiene el usuario con su mascota.  
  
+ ## Motivacion
  
- ### Viaje del cliente
-![Screenshot](/Imagenes/Viaje_usuario.PNG)
- ### Viaje de la mascosta
-![Screenshot](/Imagenes/Viaje_mascota.PNG)
+
  ### [SoC](/Perifericos/)
 ![Screenshot](/Imagenes/SoC_bloques.PNG) 
