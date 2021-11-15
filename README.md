@@ -25,13 +25,13 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 
 ### Perifericos
 
-- Pantalla OLED - I2C
+- [Pantalla OLED - I2C](/Perifericos/OLED)
 
-- Sensor de movimiento
+- [Sensor de movimiento](/Perifericos/SensorMov)
 
-- Sensor infrarrojo
+- [Sensor infrarrojo](/Perifericos/SensorInfra)
 
-- Control motor - ULN2003
+- [Control motor - ULN2003](/Perifericos/Motor)
 
-- DFPlayer Mini
+- [DFPlayer Mini](/Perifericos/DFPlayer)
 
