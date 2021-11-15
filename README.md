@@ -25,9 +25,13 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 
 ### Perifericos
 
--
--
--
--
--
+- Pantalla OLED - I2C
+
+- Sensor de movimiento
+
+- Sensor infrarrojo
+
+- Control motor - ULN2003
+
+- DFPlayer Mini
 
