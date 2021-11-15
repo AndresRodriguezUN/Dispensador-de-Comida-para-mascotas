@@ -14,5 +14,5 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  ## Motivacion
  
 
- ### [SoC](/Perifericos/)
+ ## [System of Chip - SOC](/Perifericos/)
 ![Screenshot](/Imagenes/SoC_bloques.PNG) 
