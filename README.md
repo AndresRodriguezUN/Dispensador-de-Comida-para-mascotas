@@ -16,5 +16,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  Con el fin de de justificar el proyecto, se definieron los viajes tanto del cliente como de la mascota y del como intervenia nuestro proyecto en cada uno de los trayectos. Esto permitio resaltar las funcionalidades directas o indirectas que debe cumplir el dispositivo a desarrollar. De esta forma se definieron los perifericos necesarios, ademas del modulo-procesador que se van a utilizar.
  
 
- ## [System of Chip - SOC](/Perifericos/)
+ ## [System of Chip - SOC](/SoC/)
+ 
+ El SoC se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo. Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los diferentes perifericos a implementar.
 ![Screenshot](/Imagenes/SoC_bloques.PNG) 
