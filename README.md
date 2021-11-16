@@ -21,8 +21,11 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  El SoC se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo.
 ![Screenshot](/Imagenes/SoC_bloques.PNG) 
 
-### [Modulo ESP32](/ESP32)
+### [Modulo ESP32](/ESP32/)
 Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los diferentes perifericos a implementar.
+
+### [Regulacion de tension](/Regulador)
+
 
 ### Perifericos
 
