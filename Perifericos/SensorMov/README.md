@@ -6,7 +6,7 @@ Los componentes que se van a utilizar para este periferico seran:
 
 - Módulo Sensor Infrarrojo Piroeléctrico Mini HC-SR505.
 
-![Screenshot](/Perifericos/sensorMov/componentesPIR.png) 
+![Screenshot](/Perifericos/SensorMov/componentesPIR.png) 
 
 
 ## Estructura y funcionamiento
