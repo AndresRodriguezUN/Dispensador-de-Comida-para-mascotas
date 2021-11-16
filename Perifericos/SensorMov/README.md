@@ -11,8 +11,8 @@ Los componentes que se van a utilizar para este periferico seran:
 
 ## Estructura y funcionamiento
 
-![Screenshot](/Perifericos/Motor/estyfuncMotor.png) 
+![Screenshot](/Perifericos/SensorMov/estyfuncSensorMov.png) 
 
 ## Diagrama de conexiones
 
-![Screenshot](/Perifericos/Motor/conexionesMotor.png) 
+![Screenshot](/Perifericos/SensorMov/conexionesPIR.png) 
