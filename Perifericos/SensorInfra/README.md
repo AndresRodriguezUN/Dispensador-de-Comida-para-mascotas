@@ -12,8 +12,9 @@ Los componentes que se van a utilizar para este periferico seran:
 ## Estructura y funcionamiento
 
 ![Screenshot](/Perifericos/SensorInfra/estyfuncIR.png) 
+![Screenshot](/Perifericos/SensorInfra/conexionesIR.png) 
 
 ## Diagrama de conexiones
 
-![Screenshot](/Perifericos/SensorInfra/conexionesIR.png) 
+
 
