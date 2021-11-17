@@ -43,3 +43,7 @@ Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los d
 
 - [DFPlayer Mini](/Perifericos/DFPlayer)
 
+### Circuito impreso
+
+### Diseno Caja
+
