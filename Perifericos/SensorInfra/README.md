@@ -16,3 +16,4 @@ Los componentes que se van a utilizar para este periferico seran:
 ## Diagrama de conexiones
 
 ![Screenshot](/Perifericos/SensorInfra/conexionesIR.png) 
+
