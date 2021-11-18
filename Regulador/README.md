@@ -9,6 +9,6 @@ Con el fin de regular la tensión a 3.3 V y 5 V, se utilizan reguladores NCP1117
 
 ### 5 V - 3.3 V
 
-![Screenshot](/Imagenes/ncp_2.png) 
+![Screenshot](/Imagenes/ncp_2.PNG) 
 
 
