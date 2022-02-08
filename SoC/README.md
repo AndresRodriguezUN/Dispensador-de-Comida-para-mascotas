@@ -19,4 +19,15 @@ Para el proyecto se decidio implementar un circuito impreso, el cual debera cont
 
 ## Perifericos
 
+
+- [Pantalla OLED - I2C](/Perifericos/OLED)
+
+- [Sensor de movimiento](/Perifericos/SensorMov)
+
+- [Sensor infrarrojo](/Perifericos/SensorInfra)
+
+- [Control motor - ULN2003](/Perifericos/Motor)
+
+- [DFPlayer Mini](/Perifericos/DFPlayer)
+
 ## [Regulacion de tension](/Regulador)
