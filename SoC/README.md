@@ -2,7 +2,9 @@
 
 
 ## [Microcontrolador ESP32](/SoC/ESP32/)
-Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los diferentes perifericos a implementar.
+Se implemento un microcontrolador ESP32-WROOM, el cual se encargara de coordinar los diferentes perifericos a implementar. Igualmente, gracias a su periferico de WiFi se podran utilizar las comunicaciones inalambricas en lo que respecta a la conexion con la App de control.
+
+
 
 ## [Circuito Impreso](/CircuitoImpreso)
 
