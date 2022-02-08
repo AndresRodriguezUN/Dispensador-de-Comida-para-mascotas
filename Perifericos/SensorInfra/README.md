@@ -20,6 +20,6 @@ Los componentes que se van a utilizar para este periferico seran:
 ## Diagrama de conexiones
 
 <p align="center">
-  <img src="/Perifericos/SensorInfra/conexionesIR.jpeg" align="center" width = 250>
+  <img src="/Perifericos/SensorInfra/conexionesIR.jpeg" align="center" width = 350>
 </p>
 
