@@ -22,9 +22,6 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 ![Screenshot](/Imagenes/SoCEmb.png)
 ![Screenshot](/Imagenes/DiaPEmb.png)
 
-
-
-
 ### Perifericos
 
 - [Pantalla OLED - I2C](/Perifericos/OLED)
@@ -37,7 +34,6 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 
 - [DFPlayer Mini](/Perifericos/DFPlayer)
 
-### Circuito impreso
 
 ## [Diseno Caja](/Rcaja)
 
