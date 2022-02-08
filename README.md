@@ -22,10 +22,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 ![Screenshot](/Imagenes/SoCEmb.png)
 ![Screenshot](/Imagenes/DiaPEmb.png)
 
-### [Modulo ESP32](/ESP32/)
-Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los diferentes perifericos a implementar.
 
-### [Regulacion de tension](/Regulador)
 
 
 ### Perifericos
