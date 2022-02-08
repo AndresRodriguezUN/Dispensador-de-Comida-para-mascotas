@@ -46,5 +46,5 @@ Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los d
 
 ### Circuito impreso
 
-### Diseno Caja
+### [Diseno Caja](/Rcaja)
 
