@@ -41,5 +41,9 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 
 ## [Diseño Caja](/Rcaja)
 
+## [Ensamble](/Ensamble)
+
+## Pruebas de funcionamiento
+
 
 
