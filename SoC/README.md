@@ -1,1 +1,3 @@
 
+
+### [Regulacion de tension](/Regulador)
