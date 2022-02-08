@@ -1,6 +1,6 @@
 
 # DFPlayer Mini - Reproductor audio
-La comunicación con el DFP player se basá que por el pin de TX (escritura) se envía una serie de 10 bytes las cuales estan organizados de la siguiente manera (para mas informacion remitase a [DFPlayer](/datasheets/spe033.pdf)):
+La comunicación con el DFP player se basá que por el pin de TX (escritura) se envía una serie de 10 bytes las cuales estan organizados de la siguiente manera (para mas informacion remitase a [DFPlayer](/Datasheets/DFP.pdf)):
 
 
 | Byte | Descripción |
