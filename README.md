@@ -31,7 +31,7 @@ Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los d
 ### [Regulacion de tension](/Regulador)
 
 
-
+ 
 ### Perifericos
 
 - [Pantalla OLED - I2C](/Perifericos/OLED)
