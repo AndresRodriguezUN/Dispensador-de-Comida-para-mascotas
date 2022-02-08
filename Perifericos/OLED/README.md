@@ -4,7 +4,7 @@
 Para el proyecto se usara un OLed de referencia **OLED-128O064D-BPP3N00000**.
 
 <p align="center">
-  <img src="/Imagenes/Elooled.png" align="center" width = 150>
+  <img src="/Imagenes/Elooled.png" align="center" width = 250>
 </p>
 
 ## Estructura y funcionamiento 
