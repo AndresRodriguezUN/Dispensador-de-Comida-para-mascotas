@@ -37,7 +37,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 - [DFPlayer Mini](/Perifericos/DFPlayer)
 
 
-## [Diseno Caja](/Rcaja)
+## [Diseño Caja](/Rcaja)
 
 ## [App](/App)
 
