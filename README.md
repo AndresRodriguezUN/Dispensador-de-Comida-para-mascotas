@@ -20,7 +20,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  ## [Sistema embebido](/SoC/)
  
- El SoC se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo, las cuales permitieron decidir los perifericos necesitados para cumplir cada una de las funcionalidades del proyecto.
+ El sistema embebido se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo, las cuales permitieron decidir los perifericos necesitados para cumplir cada una de las funcionalidades del proyecto.
  
 ### Perifericos
 
