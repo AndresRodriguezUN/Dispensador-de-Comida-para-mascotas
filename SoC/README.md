@@ -11,6 +11,12 @@ Se implemento un microcontrolador ESP32-WROOM, el cual se encargara de coordinar
 
 ## [Circuito Impreso](/CircuitoImpreso)
 
+Para el proyecto se decidio implementar un circuito impreso, el cual debera contar con el microcontrolador y los diferentes acondicionamiento necesarios para el manejo y control de los distintos perifericos a emplear.
+
+- [Esquematico](/SoCCircuitoImpreso)
+- [PCB](/SoCCircuitoImpreso)
+
+
 ## Perifericos
 
 ## [Regulacion de tension](/Regulador)
