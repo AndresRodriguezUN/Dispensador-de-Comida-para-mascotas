@@ -12,7 +12,6 @@ La pantalla Oled funciona a partir de una alimentación de 3V (maximo 3.3V y min
 ## Diagrama de conexiones
 Por ultimo, dado que se usara la comunicación I2C solo sera necesario usar 4 pines para la concexion del componente, VCC siendo la alimentación de 3V, GND el ground, SDL y SDA.
 
-![Screenshot]()
 <p align="center">
-  <img src="/Imagenes/ElOled.png" align="center" width = 250>
+  <img src="/Imagenes/ElOled.png" align="center" width = 350>
 </p>
