@@ -19,8 +19,8 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  ## [System of Chip - SOC](/SoC/)
  
  El SoC se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo.
-![Screenshot](/Imagenes/SocEmb.png)
-![Screenshot](/Imagenes/DiagramaP.png)
+![Screenshot](/Imagenes/SoCEmb.png)
+![Screenshot](/Imagenes/DiaPEmb.png)
 
 ### [Modulo ESP32](/ESP32/)
 Se implemento un modulo ESP32-S2-WROVER, el cual se encargara de coordinar los diferentes perifericos a implementar.
