@@ -22,9 +22,6 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  El SoC se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo, las cuales permitieron decidir los perifericos necesitados para cumplir cada una de las funcionalidades del proyecto.
  
- ![Screenshot](/Imagenes/SoCEmb.png)
-
-
 ### Perifericos
 
 - [Pantalla OLED - I2C](/Perifericos/OLED)
@@ -36,6 +33,10 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 - [Control motor - ULN2003](/Perifericos/Motor)
 
 - [DFPlayer Mini](/Perifericos/DFPlayer)
+ 
+ ![Screenshot](/Imagenes/SoCEmb.png)
+
+
 
 
 ## [Diseño Caja](/Rcaja)
