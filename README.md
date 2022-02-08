@@ -19,7 +19,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  ## [System of Chip - SOC](/SoC/)
  
  El SoC se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo.
-![Screenshot](/Imagenes/SoC_bloques.PNG)
+![Screenshot](/Imagenes/SoCEmbebidos.png)
 ![Screenshot](/Imagenes/DiagramaP.png)
 
 ### [Modulo ESP32](/ESP32/)
