@@ -10,6 +10,10 @@ El ESP32-WROOM32 cuenta con 38 pines de los cuales se emplearan UART's, pines di
 
 ## Adecuacion
 
+Si bien el SoC del ESP32-WROOM viene con la adecuacion de sus perifericos internos y los modulos que implementa para funcionar. Es necesario realizar la adecuacion de este por medio de una serie de resistencias y capacitores para poderlo trabajar correctamente en la practica. Muchos de los acondicionamientos que se van a listar aqui pueden funcionar para cualquier ESP32, sin embargo cabe resaltar que se realizan para el ESP32-WROOM (para mas informacion remitase a [Ajustes para correcto funcionamiento de esp32](/Datasheets/)).
+
+- Pin 2: 
+
 
 
 ## Programacion 
