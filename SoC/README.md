@@ -1,4 +1,4 @@
-# System on a Chip - SOC
+# Sistema embebido
 
 
 ## [Modulo ESP32](/ESP32/)
