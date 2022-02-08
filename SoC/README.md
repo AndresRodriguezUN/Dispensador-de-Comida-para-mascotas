@@ -19,6 +19,7 @@ Para el proyecto se decidio implementar un circuito impreso, el cual debera cont
 
 ## Perifericos
 
+En base al sistema embebido definido previamente se llego a la conclusion que los perifericos necesarios para cumplir con las funcionalidades directas del dispositivo son:
 
 - [Pantalla OLED - I2C](/Perifericos/OLED)
 
@@ -31,3 +32,5 @@ Para el proyecto se decidio implementar un circuito impreso, el cual debera cont
 - [DFPlayer Mini](/Perifericos/DFPlayer)
 
 ## [Regulacion de tension](/Regulador)
+
+Dado que en proyecto se utiliza un ESP32-WROOM, este necesita una tension de 3.3V para funcionar y por otro lado se necesitan 5V para poner en funcionamiento un motor paso a paso que se encargara de las prestaciones mecanicas del dispositivo. Por lo tanto se implementan dos reguladores de tension en la tarjeta que se desarrolle.
