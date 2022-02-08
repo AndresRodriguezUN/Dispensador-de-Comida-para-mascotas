@@ -6,13 +6,18 @@ Los componentes que se van a utilizar para este periferico seran:
 - Motor unipolar 28BYJ-48
 - Driver ULN2003A
 
-![Screenshot](/Perifericos/Motor/componentesMotor.png) 
-
+<p align="center">
+  <img src="/Perifericos/Motor/componentesMotor.png" align="center" width = 850>
+</p>
 
 ## Estructura y funcionamiento
 
-![Screenshot](/Perifericos/Motor/estyfuncMotor.png) 
+<p align="center">
+  <img src="/Perifericos/Motor/estyfuncMotor.png" align="center" width = 850>
+</p>
 
 ## Diagrama de conexiones
 
-![Screenshot](/Perifericos/Motor/conexionesMotor.png) 
+<p align="center">
+  <img src="/Perifericos/Motor/conexionesMotor.png" align="center" width = 850>
+</p>
