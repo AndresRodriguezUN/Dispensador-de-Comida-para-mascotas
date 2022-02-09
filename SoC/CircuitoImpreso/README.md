@@ -85,8 +85,19 @@ Antes de continuar con la generacion de la PCB y la NetList, se asignan las foot
 
 Despues de realizar el diseño en kiCAD del esquematico, se procede a generar la PCB junto con las footprints asociadas previamente. En donde se cuadra la ubicacion de todos los componentes en el circuito impreso teniendo en cuenta una distribucion por potencia (separando por secciones imaginarias los componentes de mayor a menor potencia), asi como las recomendaciones de dimensiones minimas que podia implementar el fabricante. Del mismo modo se incluyen otras partes necesarias en hardware para la sujecion del sistema embebido. Igualmente dentro del repositorio se incluye el archivo de la PCB al cual puede remitirse para verificar todo lo diseñado [kiCAD](/kiCAD). 
 
+<p align="center">
+  <img src="PcbKi.png" align="center" width = 650>
+</p>
 
+Como se puede observar, se adicionaron o ajustaron ciertas cosas adicionales en la PCB como lo son:
 
+- Orificios de sujecion, por lo cuales seria ideal ajustar la placa en el dispositivo.
+- Segun la guia de diseño, es importante que para el correcto funcionamiento de la antena de el ESP32, se debe despejar el area de cualquier pista de cobre que pase por la seccion de la antena.
+<p align="center">
+  <img src="antenaEsp.png" align="center" width = 650>
+</p>
+
+- Se implementaron **vias** en las zonas donde no habian componentes, para reducir la capacitancia entre las caras asignadas a tierra del circuito impreso. 
 
 
 
