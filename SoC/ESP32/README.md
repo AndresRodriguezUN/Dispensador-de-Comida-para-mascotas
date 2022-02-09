@@ -51,3 +51,9 @@ Y para el manejo del Firmware que se utilizara para coordinar los diferentes per
   <img src="strappingPins.png" align="center" width = 500>
 </p>
 
+Segun lo que indica el datasheet, la coordinacion de los pines IO0 y EN para ponerlo en BOOT-MODE debe ser la siguiente, a partir de la distribucion de botones que se utilizo:
+- Se deben presionar los dos botones BO y EN a la vez y se deben mantener presionados.
+- Luego hay que dejar de presionar el EN, y mantener presionado el BO.
+- Cuando se verifique que el firmware se este subiendo, o que se ha generado una buena conexion entre el PC y el ESP32 se puede dejar de presionar el BO.
+
+
