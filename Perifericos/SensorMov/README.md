@@ -27,5 +27,8 @@ El sensor PIR tiene una salida digital que indica si ha detectado o no movimient
 </p>
 
 ## Adecuacion
-
+La comunicacion con el PIR es por medio de un pin digital. Por lo tanto lo unico que se necesita es prestar para el PIR 3 pines:
+- 1 pin digital de recepcion de datos.
+- 1 pin de Vcc de 3V3.
+- 1 pin de GND.
 
