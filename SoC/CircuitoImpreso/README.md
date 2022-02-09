@@ -94,7 +94,7 @@ Como se puede observar, se adicionaron o ajustaron ciertas cosas adicionales en 
 - Orificios de sujecion, por lo cuales seria ideal ajustar la placa en el dispositivo.
 - Segun la guia de diseño, es importante que para el correcto funcionamiento de la antena de el ESP32, se debe despejar el area de cualquier pista de cobre que pase por la seccion de la antena.
 <p align="center">
-  <img src="antenaEsp.png" align="center" width = 650>
+  <img src="antenaEsp.png" align="center" width = 450>
 </p>
 
 - Se implementaron **vias** en las zonas donde no habian componentes, para reducir la capacitancia entre las caras asignadas a tierra del circuito impreso. 
