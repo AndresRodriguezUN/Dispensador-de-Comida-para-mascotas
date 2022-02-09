@@ -99,6 +99,26 @@ Como se puede observar, se adicionaron o ajustaron ciertas cosas adicionales en 
 
 - Se implementaron **vias** en las zonas donde no habian componentes, para reducir la capacitancia entre las caras asignadas a tierra del circuito impreso. 
 
+## Pedido - fabricante CHINO
+
+El pedido se realizo a un fabricante chino, especificamente a [JLCPCB](https://jlcpcb.com/), y el proceso que se realizo en resumidas cuentas es el siguiente:
+
+- Subir el archivo del proyecto, no sin antes generar los archivos gerber y de perforacion del proyecto. Y en la pagina del fabricante se detallan las caracteristicas que el usuario prefiera para la fabricacion de su PCB.
+
+<p align="center">
+  <img src="orden1.png" align="center" width = 450>
+</p>
+
+- Posteriormente que se llene la informacion de las caracteristicas de la placa, se procede al carrito de compras y se verifica el precio estimado por la fabricacion de la cantidad que se halla exigido (la minima cantidad que se fabrica son 5 placas por $2 Dolares).
+
+<p align="center">
+  <img src="orden2.png" align="center" width = 450>
+</p>
+
+- Luego se procede con el diligenciamiento de la informacion respectiva a la residencia y de facturacion, para continuar con el metodo de envio. **El metodo de envio que recomendamos y que nos funciono a nosotros es el Standard Special Air Mail**. Ya que es el unico que hace envios a Colombia, por un precio razonable en un plazo de alrededor de 20 dias.
 
 
+<p align="center">
+  <img src="orden3.png" align="center" width = 450>
+</p>
 
