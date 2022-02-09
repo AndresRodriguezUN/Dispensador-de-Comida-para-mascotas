@@ -18,9 +18,15 @@ El funcionamiento del motor paso a paso 28BYJ-48 se basa en la activacion de las
 </p>
 
 ## Diagrama de conexiones
+La idea es que las salidas digitales que se obtienen del ESP32 con las que se desea controlar el motor vayan primero al driver ULN2003 para que sea posible controlar el motor con la corriente necesaria. Por lo tanto se sigue el diagrama que esta a continuacion, para poderlo replicar en la tarjeta que se elaboara en la seccion de circuito impreso.
 
 <p align="center">
   <img src="/Perifericos/Motor/conexionesMotor.png" align="center" width = 850>
 </p>
 
 ## Adecuacion
+La adecuacion que necesita el circuito impreso es tener implementado un driver ULN2003, el cual se selecciono para este caso de montaje superficial, Pero ademas de eso es necesario utilizar un capacitor de Bypass a la entrada de tension de 5V del driver para filtrar cualquier ruido que pueda interferir en el diseño, por lo tanto se define lo siguiente:
+
+<p align="center">
+  <img src="/Perifericos/Motor/uln2003.png" align="center" width = 450>
+</p>
