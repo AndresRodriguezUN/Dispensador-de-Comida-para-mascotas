@@ -23,3 +23,11 @@ De esta manera para usar dar ordenes al DFP player se uso una función llamada *
 </p>
 
 Pasando a las conexiones del DFP player se usó el pin VCC para la alimentación de 5v, los pines RX y TX como se mencionó anteriormente irían conectados al ESP32 para la comunicación con la Uart y el manejo del periférico, el pin GND como la tierra y por ultimo el DFP player posee un espacio para almacenar una memoria SD la cual posee los audios utilizados en el proyecto. Estos audios son nombrados como 0001, 0002... Esto dado que al ingresar el **parm2** dentro de la orden del DFP player pueda encontrar y reproducir el audio.
+
+## Adecuacion
+
+Como se indico previamente el DFPlayer mini se comunica con el microcontrolador por medio de UART, por lo que se reserva la UART2 exclusivamente para la comunicacion con el DFP. Y no es necesario realizar mas adecuaciones o acondicionamientos para el DFPlayer, mas alla de los pines de alimentacion y tierra que necesita.
+
+- 2 pines UART2.
+- 1 pin Vcc de 3V3.
+- 1 pin de GND.
