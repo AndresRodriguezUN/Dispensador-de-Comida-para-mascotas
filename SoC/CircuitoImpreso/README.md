@@ -45,6 +45,9 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 <p align="center">
   <img src="/Perifericos/Motor/uln2003.png" align="center" width = 350>
 </p>
+<p align="center">
+  <img src="cajanegraULN.png" align="center" width = 350>
+</p>
 
 
 
