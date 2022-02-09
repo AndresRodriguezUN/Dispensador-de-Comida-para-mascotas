@@ -9,8 +9,29 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 <p align="center">
   <img src="esp32esq.png" align="center" width = 450>
 </p>
-- Acondicionamiento del ESP32.
--
+- PIN 2: Este Pin es importante que este en PULL-DOWN cuando el ESP32 se necesite que este en BOOT-MODE, por lo que se conecta una resistencia de 10kOhm para llevarlo a GND.
+
+<p align="center">
+  <img src="io2.png" align="center" width = 200>
+</p>
+
+- PIN 0: Este Pin es de booteo, por lo tanto de acuerdo a lo recopilado de distintos repositorios, se requiere implementar un boton que al ser presionado ponga al PIN 0 en PULL-DOWN.
+
+<p align="center">
+  <img src="boot.png" align="center" width = 300>
+</p>
+
+- PIN EN: Este Pin es el ENABLE, y tiene que estar en PULL-UP todo el tiempo. Sin embargo para cuando sea necesario resetear el ESP32 tiene que estar en PULL-DOWN. Por lo tanto se implementa un boton que realiza la misma funcion que el de Booteo y tiene la siguiente arquitectura.
+
+<p align="center">
+  <img src="enable.png" align="center" width = 300>
+</p>
+
+- PIN 3V3: Se implementa un capacitor ByPass de 100pF para filtrar todo el ruido que pueda afectar la alimentacion del ESP32 (este capacitor se debe procurar que este lo suficientemente cerca de el pin 3V3).
+
+<p align="center">
+  <img src="bypass.png" align="center" width = 200>
+</p>
   
 
 ### Motor paso a paso
