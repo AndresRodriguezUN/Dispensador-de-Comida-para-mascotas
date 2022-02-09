@@ -12,6 +12,8 @@ Los componentes que se van a utilizar para este periferico seran:
 
 ## Estructura y funcionamiento
 
+El sensor PIR es un sensor electrónico que mide la luz infrarroja (IR) radiada de los objetos situados en su campo de visión. Lo que le permite detectar el movimiento y es util para las funcionalidades que se requieren para el dispositivo.
+
 <p align="center">
   <img src="/Perifericos/SensorMov/estyfuncSensorMov.png" align="center" width = 850>
 </p>
