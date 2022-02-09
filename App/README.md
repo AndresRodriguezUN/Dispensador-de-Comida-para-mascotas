@@ -3,3 +3,6 @@ Se diseñó una aplicación móvil por medio de la plataforma APPInventor, la cu
 
 ## Viaje del usuario en la APP
 
+### Screen de Carga
+
+Al momento de iniciar la aplicación, el usuario observa en primer lugar la screen de carga. 
