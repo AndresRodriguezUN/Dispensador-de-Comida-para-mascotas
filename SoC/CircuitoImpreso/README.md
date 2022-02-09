@@ -124,6 +124,6 @@ El pedido se realizo a un fabricante chino, especificamente a [JLCPCB](https://j
 - Y luego de 20 dias asi llego la PCB.
 
 <p align="center">
-  <img src="pcbllego.png" align="center" width = 750>
+  <img src="pcbllego.jpeg" align="center" width = 750>
 </p>
 
