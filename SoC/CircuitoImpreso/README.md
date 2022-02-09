@@ -7,9 +7,10 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 ### ESP32-WROOM
 - Conexiones en general del microcontrolador.
 <p align="center">
-  <img src="/Perifericos/Motor/uln2003.png" align="center" width = 450>
+  <img src="esp32esq.png" align="center" width = 450>
 </p>
 - Acondicionamiento del ESP32.
+-
   
 
 ### Motor paso a paso
