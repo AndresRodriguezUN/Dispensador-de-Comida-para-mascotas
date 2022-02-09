@@ -10,7 +10,7 @@ Con el fin de regular la tensión a 3.3 V y 5 V, se utilizan reguladores NCP1117
 ## Diagrama de conexiones
 
 <p align="center">
-  <img src="ncp1117.jpg" align="center" width = 450>
+  <img src="ncp1117.png" align="center" width = 450>
 </p>
 
 ## Adecuacion
