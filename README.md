@@ -15,8 +15,11 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  Con el fin de de justificar el proyecto, se definieron los viajes tanto del cliente como de la mascota y del como intervenia nuestro proyecto en cada uno de los trayectos. Esto permitio resaltar las funcionalidades directas o indirectas que debe cumplir el dispositivo a desarrollar. De esta forma se definieron los perifericos necesarios, ademas del modulo-procesador que se van a utilizar.
  
+ 
  ## Flujo de procesos
  ![Screenshot](/Imagenes/DiaPEmb1.png)
+ 
+
  
  ## [Sistema embebido](/SoC/)
  
@@ -35,6 +38,10 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 - [DFPlayer Mini](/Perifericos/DFPlayer)
  
  ![Screenshot](/Imagenes/SoCEmb.png)
+ 
+  ## Finalidad coordinacion de perifericos
+  
+  
 
 ## [Firmware](/Firmware)
 
