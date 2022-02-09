@@ -79,6 +79,10 @@ Como se explica en el repositorio, el metodo para subir cada una de las piezas d
   <img src="pinserial.jpeg" align="center" width = 350>
 </p>
 
-## Conexion ESP32 y App
+## Conexión ESP32 y App
 
+La conexión entre el ESP32 y la app movil en el dispositivo del usuario se realiza por medio de un broker MSQQ, donde ambos dispositivos se suscriben a topicos especificos y publican o reciben mensajes según el proceso que se desée realizar.
 
+### Conexión APP
+
+Para llevar a cabo la conexión de la APP con el brocker, inicialmente se decarga la librería **UrsPahoMQTTClient** en APPInventor 
