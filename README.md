@@ -41,6 +41,17 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
   ## Finalidad coordinacion de perifericos
   
+  La idea es construir un dispositvo que a determinadas horas del dia ponga a disposicion una porcion de comida para nuestra mascota. Esta meta se cumple con las prestaciones que nos ofrece cada uno de los componentes a ensamblar:
+  
+  - Tarjeta basada en ESP32: Encargada de la coordinacion de los perifericos y la comunicacion inalambrica con una App.
+  - App: Encargada de la retroalimentacion del usuario sobre el estado de la mascota, ademas de la posibilidad de programar los horarios de comida que el usuario desee para su mascota.
+  - Motor: Encargado de la rotacion del plato en el cual estan alojadas cada una de las porciones de comida.
+  - OLED: Encargado de dar una retroalimentacion visual, en el dispositivo, de el estado de la mascota.
+  - DFP y Parlante: Encargados de reproducir una pista de audio que avise a la mascota cuando llegue la hora de comer.
+  - PIR: Encargado de detectar si la mascota se acerca al dispositivo dispensador de comida, para evaluar indirectamente su estado de animo.
+  - Infrarrojo: Encargado de detectar si la mascota ha comido alguna parte de su racion, para evaluar indirectamente su estado de animo.
+ 
+Al tener todo coordinado se espera que se cumpla la finalidad del proyecto satisfactoriamente.
   
 
 ## [Firmware](/Firmware)
