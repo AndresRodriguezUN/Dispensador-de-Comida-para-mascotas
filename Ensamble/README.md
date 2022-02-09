@@ -14,7 +14,7 @@ El ensamble de todas las partes del dispositivo se realizo de la siguiente maner
 - El regulador de 3V3 se tendia a sobre-calentar, por lo tanto fue necesario implementar un disipador de calor de aluminio sobre este componente, lo que posterior a las pruebas se pudo notar que su temperatura se disipaba perfectamente.
 
 <p align="center">
-  <img src="disipadores.jpeg" align="center" width = 350>
+  <img src="disipadores.jpeg" align="center" width = 250>
 </p>
 
 - Luego nos dimos cuenta que no habia suficiente grosor para ajustar la tarjeta del proyecto con tornillos de sujecion a la base de la caja, por lo tanto se decidio  colocar 3 soportes de madera que impidieran que la tarjeta se moviera de su lugar.
