@@ -30,3 +30,7 @@ La adecuacion que necesita el circuito impreso es tener implementado un driver U
 <p align="center">
   <img src="/Perifericos/Motor/uln2003.png" align="center" width = 450>
 </p>
+
+- 4 pines digitales.
+- 1 pin Vcc de 5V exclusivo para el ULN2003.
+- 1 pin de GND. 
