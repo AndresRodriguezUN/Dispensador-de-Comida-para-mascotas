@@ -37,4 +37,12 @@ Si bien el SoC del ESP32-WROOM viene con la adecuacion de sus perifericos intern
 </p>
 
 
-## Programacion 
+## Programacion
+
+La programacion del ESP32 se realziara por medio de el periferico UART0 que ya presta el SoC. Sin embargo es necesario utilziar un conversor USB-UART para poder cumplir con el fin de comunicacion entre el PC y el ESP32. 
+
+<p align="center">
+  <img src="usbserial.png" align="center" width = 300>
+</p>
+
+Y para el manejo del Firmware que se utilizara para coordinar los diferentes perifericos y el ESP32 se decidio utilizar MicroPython debido a su simplicidad y la amplia gama de informacion que se puede encontrar en repositorios para alguna funcionalidad en especifico que esa necesaria utilziar. Para mas informacion remitase a [Firmware](/Firmware).
