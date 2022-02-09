@@ -55,17 +55,23 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 - Acondicionamiento de reguladores
 
 <p align="center">
-  <img src="ncp5.png" align="center" width = 350>
+  <img src="/Regulador/ncp5.png" align="center" width = 350>
 </p>
 <p align="center">
-  <img src="ncp3.png" align="center" width = 350>
+  <img src="/Regulador/ncp3.png" align="center" width = 350>
 </p>
-
 
 - Conexion Jack-DC para cargador de 12V, en donde se deja una salida para conectar un interruptor que permita apagar y prender el dispositivo.
 
 <p align="center">
   <img src="jackDC.png" align="center" width = 350>
+</p>
+
+### Conectores para los perifericos en general
+
+
+<p align="center">
+  <img src="perifGene.png" align="center" width = 550>
 </p>
 
 
