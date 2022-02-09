@@ -37,4 +37,4 @@ Para el proyecto se decidio implementar un circuito impreso, el cual debera cont
 
 ## [Soldadura y Resultado](/SoC/Soldadura)
 
-
+Con el circuito impreso entregado por el fabricante, se procede a realizar la soldadura de cada uno de los componentes comprados para el dispositivo dispensador de comida para mascotas.
