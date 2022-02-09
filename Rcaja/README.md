@@ -8,7 +8,7 @@ Por lo tanto, teniendo en cuenta lo anterior se decidió realizar el proyecto el
 Por último, luego de mandar a cortar una tabla de madera en corte laser se obtuvo el siguiente resultado:
 
 ![Screenshot](/Imagenes/CajaF.jpeg) 
-![Screenshot](/Imagenes/CajaF1.jpeg) 
+![Screenshot](/Imagenes/CajaF2.jpeg) 
 
 Ya con la carcasa, se puede pasar a colocar el circuito, los perifericos y el plato dentro para comenzar a hacer pruebas.
 
