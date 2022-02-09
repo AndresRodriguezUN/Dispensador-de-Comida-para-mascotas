@@ -38,6 +38,8 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 
 ## [Firmware](/Firmware)
 
+El firmware de todo el proyecto se desarrolla en micropython, el cual es una version renderizada de python para poder ejecutarse en microcontroladores como lo es el ESP32. Se decidio utilizar micropython debido a su practicidad y la documentacion amplia que tiene en distintos repositorios. Con respecto al ESP32 cabe destacar que se debe flashear con micropython para que todos los codigos en python que se deseen emplear se ejecuten a la perfeccion.
+
 ## [App](/App)
 
 ## [Diseño Caja](/Rcaja)
