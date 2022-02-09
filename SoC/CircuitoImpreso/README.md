@@ -51,14 +51,22 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 </p>
 
 ### Regulacion y conexion Jack-DC
+
 - Acondicionamiento de reguladores
 
+<p align="center">
+  <img src="ncp5.png" align="center" width = 350>
+</p>
+<p align="center">
+  <img src="ncp3.png" align="center" width = 350>
+</p>
 
-- Conexion Jack-DC para cargador de 12V
 
+- Conexion Jack-DC para cargador de 12V, en donde se deja una salida para conectar un interruptor que permita apagar y prender el dispositivo.
 
 <p align="center">
-  <img src="cajanegraULN.png" align="center" width = 350>
+  <img src="jackDC.png" align="center" width = 350>
 </p>
+
 
 ## PCB - KiCAD
