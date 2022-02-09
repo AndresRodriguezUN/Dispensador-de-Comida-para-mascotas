@@ -8,14 +8,21 @@ Con el fin de regular la tensión a 3.3 V y 5 V, se utilizan reguladores NCP1117
 </p>
 
 ## Diagrama de conexiones
+Es importante identificar los pines de cada uno de los empaquetados para el correcto montaje sobre el circuito impreso, asi como el acondicionamiento que es necesario darles para su correcta implementacion.
 
 <p align="center">
   <img src="ncp1117.png" align="center" width = 450>
 </p>
 
 ## Adecuacion
+Segun el datasheet es necesario utilizar capacitores de 10uF y 47uF en la entrada y la salida correspondientemente, para cada una de las configuraciones de los reguladores de montaje SMD que se utilizaran en el circuito impreso. 
 
-
+<p align="center">
+  <img src="ncp5.png" align="center" width = 350>
+</p>
+<p align="center">
+  <img src="ncp3.png" align="center" width = 350>
+</p>
 
 
 
