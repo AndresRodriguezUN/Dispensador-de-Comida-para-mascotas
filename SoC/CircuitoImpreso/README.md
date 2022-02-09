@@ -5,16 +5,19 @@ El circuito impreso se desarrolla teniendo en cuenta las adecuaciones y acondici
 Despues de realizar el analisis de los distintos componentes y de los acondicionamientos necesarios, se realizo el esquematico en KiCAD de todo el proyecto. Incluyendo otras partes necesarias en hardware para la sujecion y conexion del sistema embebido.
 
 ### ESP32-WROOM
-El 
+- Conexiones en general del microcontrolador.
 <p align="center">
   <img src="/Perifericos/Motor/uln2003.png" align="center" width = 450>
 </p>
+- Acondicionamiento del ESP32.
+  
+
 ### Motor paso a paso
-
-
+- Configuracion del ULN2003 y caja negra del driver del motor paso a paso.
 <p align="center">
-  <img src="/Perifericos/Motor/uln2003.png" align="center" width = 450>
+  <img src="/Perifericos/Motor/uln2003.png" align="center" width = 350>
 </p>
+
 
 
 ## PCB - KiCAD
