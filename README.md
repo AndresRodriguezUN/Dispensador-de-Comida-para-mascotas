@@ -36,6 +36,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  ![Screenshot](/Imagenes/SoCEmb.png)
 
+## [Firmware](/Firmware)
 
 ## [App](/App)
 
