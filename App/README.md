@@ -6,3 +6,13 @@ Se diseñó una aplicación móvil por medio de la plataforma APPInventor, la cu
 ### Screen de Carga
 
 Al momento de iniciar la aplicación, el usuario observa en primer lugar la screen de carga. 
+
+### Registro
+
+La primera vez que el usuario ingresa a la app, deberá completar los datos requeridos para personalizarla especificando el tipo de mascota, el número de comidas y su horario correspondiente; esto por medio de la screen de registro. 
+
+### Menú principial 
+
+
+
+
