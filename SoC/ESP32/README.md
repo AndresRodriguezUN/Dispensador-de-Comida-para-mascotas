@@ -48,6 +48,6 @@ La programacion del ESP32 se realziara por medio de el periferico UART0 que ya p
 Y para el manejo del Firmware que se utilizara para coordinar los diferentes perifericos y el ESP32 se decidio utilizar MicroPython debido a su simplicidad y la amplia gama de informacion que se puede encontrar en repositorios para alguna funcionalidad en especifico que esa necesaria utilziar. Para mas informacion remitase a [Firmware](/Firmware). 
 
 <p align="center">
-  <img src="strappingpins.png" align="center" width = 300>
+  <img src="strappingPins.png" align="center" width = 300>
 </p>
 
