@@ -50,6 +50,15 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
   <img src="cajanegraULN.png" align="center" width = 350>
 </p>
 
+### Regulacion y conexion Jack-DC
+- Acondicionamiento de reguladores
 
+
+- Conexion Jack-DC para cargador de 12V
+
+
+<p align="center">
+  <img src="cajanegraULN.png" align="center" width = 350>
+</p>
 
 ## PCB - KiCAD
