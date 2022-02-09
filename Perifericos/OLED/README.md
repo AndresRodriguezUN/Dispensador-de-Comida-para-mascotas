@@ -15,3 +15,10 @@ Por ultimo, dado que se usara la comunicación I2C solo sera necesario usar 4 pi
 <p align="center">
   <img src="/Imagenes/ElOled.png" align="center" width = 350>
 </p>
+
+## Adecuacion
+
+La comunicacion con el OLED es por medio de i2c, y el periferico de i2c ya viene acondicionado en el SoC que el fabricante ofrece para el ESP32. Por lo tanto lo unico que se necesita es prestar para el OLED 4 pines:
+- 2 pines de i2c
+- 1 pin de Vcc a 3V3
+- 1 pin de GND
