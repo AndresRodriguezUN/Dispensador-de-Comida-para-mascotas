@@ -68,11 +68,26 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 </p>
 
 ### Conectores para los perifericos en general
-
+Se utilizaron conectores de diferente cantidad de pines para poder ajustar los pines para cada uno de los perifericos.
 
 <p align="center">
   <img src="perifGene.png" align="center" width = 550>
 </p>
 
+## Asignacion de Footprints
+Antes de continuar con la generacion de la PCB y la NetList, se asignan las footprint para cada uno de los elementos que se implementaron en el montaje del circuito impreso. En este paso se debe tener en cuenta los componentes que se van a comprar y las dimensiones, para que de esta forma se puedan realizar una correcta seleccion de cada uno de los footprints asociados (y que no vayan a haber problemas a futuro por una mal encuadre de dimensiones).
+
+<p align="center">
+  <img src="footasign.png" align="center" width = 850>
+</p>
 
 ## PCB - KiCAD
+
+Despues de realizar el diseño en kiCAD del esquematico, se procede a generar la PCB junto con las footprints asociadas previamente. En donde se cuadra la ubicacion de todos los componentes en el circuito impreso teniendo en cuenta una distribucion por potencia (separando por secciones imaginarias los componentes de mayor a menor potencia), asi como las recomendaciones de dimensiones minimas que podia implementar el fabricante. Del mismo modo se incluyen otras partes necesarias en hardware para la sujecion del sistema embebido. Igualmente dentro del repositorio se incluye el archivo de la PCB al cual puede remitirse para verificar todo lo diseñado [kiCAD](/kiCAD). 
+
+
+
+
+
+
+
