@@ -117,8 +117,13 @@ El pedido se realizo a un fabricante chino, especificamente a [JLCPCB](https://j
 
 - Luego se procede con el diligenciamiento de la informacion respectiva a la residencia y de facturacion, para continuar con el metodo de envio. **El metodo de envio que recomendamos y que nos funciono a nosotros es el Standard Special Air Mail**. Ya que es el unico que hace envios a Colombia, por un precio razonable en un plazo de alrededor de 20 dias.
 
-
 <p align="center">
   <img src="orden3.png" align="center" width = 850>
+</p>
+
+- Y luego de 20 dias asi llego la PCB.
+
+<p align="center">
+  <img src="pcbllego.png" align="center" width = 750>
 </p>
 
