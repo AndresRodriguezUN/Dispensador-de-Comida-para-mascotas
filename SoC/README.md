@@ -34,3 +34,7 @@ Para el proyecto se decidio implementar un circuito impreso, el cual debera cont
 - [Asignacion de Footprints](/SoC/CircuitoImpreso)
 - [PCB](/SoC/CircuitoImpreso)
 - [Pedido](/SoC/CircuitoImpreso)
+
+## [Soldadura y Resultado](/SoC/Soldadura)
+
+
