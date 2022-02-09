@@ -13,4 +13,6 @@ Con respecto a la soldadura se procuro utilizar un cautin con un punta bastante 
 
 Despues de haber realizado la soldadura, el resultado de la tarjeta de desarrollo es el siguiente:
 
-
+<p align="center">
+  <img src="resultado.jpeg" align="center" width = 650>
+</p>
