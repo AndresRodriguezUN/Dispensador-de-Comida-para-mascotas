@@ -9,6 +9,7 @@ Despues de realizar el analisis de los distintos componentes y de los acondicion
 <p align="center">
   <img src="esp32esq.png" align="center" width = 450>
 </p>
+
 - PIN USER: Este Pin se utiliza para interactuar visualmente con el ESP32 y verificar si funciona correctamente tanto la recepcion, como transmision de datos.
 
 <p align="center">
