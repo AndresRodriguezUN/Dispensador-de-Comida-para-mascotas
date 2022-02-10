@@ -4,7 +4,7 @@
 ## [Microcontrolador ESP32](/SoC/ESP32/)
 Se implementó un microcontrolador ESP32-WROOM, el cual se encargara de coordinar los diferentes periféricos a implementar. Igualmente, gracias a su periférico de WiFi se podrán utilizar las comunicaciones inalámbricas en lo que respecta a la conexión con la App de control.
 
-- [Adecuación y acondicionamiento](/SoC/ESP32#adecuacion)
+- [Adecuación y acondicionamiento](/SoC/ESP32#adecuaci%C3%B3n)
 - [Programación](/SoC/ESP32#programacion)
 
 ## Periféricos
