@@ -94,17 +94,17 @@ Para llevar a cabo la conexión de la APP con el brocker, inicialmente se descar
 De igual forma por medio de la programación de bloques, al momento que la App se conecta con el broker se publican en este el valor correspondiente del número de comidas establecidas por el usuario, la hora correspondiente a las comidas y el tipo de mascota, cada uno de estos valores en un topic independiente. A continucación se pueden observar unos ejemplo de la programación en bloques para realizar esta tarea:
 
 <p align="center">
-  <img src="comida_1.PNG" align="center" width = 450>
+  <img src="comida_1.PNG" align="center" width = 500>
 </p>
 
 <p align="center">
-  <img src="comida.PNG" align="center" width = 550>
+  <img src="comida.PNG" align="center" width = 600>
 </p>
 
 Luego, con el fin de obtener una variable que es publicada desde el ESP32 que corresponde al estado de la mascota, por medio de la programación en bloques se realizá la suscripción al topic *estado* y se iguala a una variable que se utilizara posteriormente en la APP para indicar el apetito de la mascota de manera gráfica.
 
 <p align="center">
-  <img src="estado.PNG" align="center" width = 450>
+  <img src="estado.PNG" align="center" width = 500>
 </p>
 
 <p align="center">
