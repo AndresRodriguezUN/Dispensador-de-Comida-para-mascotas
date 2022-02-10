@@ -6,12 +6,12 @@
 
 Este es el repositorio del proyecto final de la asignatura Sistemas Emebidos del semestre 2021-II (Universidad Nacional de Colombia - Sede Bogotá). A continuación se mostrará el proyecto de un Dispensador de Comida conformado por una arquitectura de SoC, donde a partir de un micropocesador y diferentes periféricos se realizan operaciones que permiten al dispensador vincularse con un dispositivo movil para configurar la alimentación de la mascota.
  
- ## Proyecto
+ ## Proyecto :open_file_folder:
  El proyecto consiste en un dispensador de comida para mascotas que dispone de funcionalidades como la comunicacion con una app movil que permite la configuracion del dispositivo y el funcionamiento del mismo. Dentro del funcionamiento se encuentra la programacion de los horarios de alimentacion, asi como la interaccion entre el usuario-dispositivo-mascota.
  
 Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la mascota esta comiendo, ademas de los horarios que frecuenta el dispositivo. Y de esta manera, puede realizar un analisis de los datos y retroalimentar al usuario por medio de la actualizacion de los comportamientos de su mascota frente al dispositivo. Permitiendo que no se pierda la conexion que tiene el usuario con su mascota.  
  
- ## [Motivacion](/Motivacion/)
+ ## [Motivacion](/Motivacion/) :thought_balloon:
  
  Con el fin de de justificar el proyecto, se definieron los viajes tanto del cliente como de la mascota y del como intervenia nuestro proyecto en cada uno de los trayectos. Esto permitio resaltar las funcionalidades directas o indirectas que debe cumplir el dispositivo a desarrollar. De esta forma se definieron los perifericos necesarios, ademas del modulo-procesador que se van a utilizar.
  
@@ -21,7 +21,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
 
  
- ## [Sistema embebido](/SoC/)
+ ## [Sistema embebido](/SoC/)  :computer:
  
  El sistema embebido se definio gracias al analisis previo de las funcionalidades directas e indirectas del dispositivo, las cuales permitieron decidir los perifericos necesitados para cumplir cada una de las funcionalidades del proyecto.
  
@@ -54,15 +54,21 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 Al tener todo coordinado se espera que se cumpla la finalidad del proyecto satisfactoriamente.
   
 
-## [Firmware](/Firmware) :computer:
-
+## [Firmware](/Firmware) :man_technologist:
 El firmware de todo el proyecto se desarrolla en micropython, el cual es una version renderizada de python para poder ejecutarse en microcontroladores como lo es el ESP32. Se decidio utilizar micropython debido a su practicidad y la documentacion amplia que tiene en distintos repositorios. Con respecto al ESP32 cabe destacar que se debe flashear con micropython para que todos los codigos en python que se deseen emplear se ejecuten a la perfeccion. Para mas informacion sobre el manejo de micropython junto al ESP32 por favor remitase a [micropython-esp32](https://docs.micropython.org/en/latest/esp32/tutorial/index.html).
 
 ## [App](/App) :calling:
 
+Para poder manejar el dispensador de alimentos para mascotas se creó una aplicación, la cual permita modificar los valores de tiempo en que se servirán las comidas y a su vez saber el estado en que se encuentra la mascota.
+
 ## [Diseño Caja](/Rcaja) :triangular_ruler: :package:
 
+Se diseñó un contenedor (carcasa o caja) la cual permitiera tener el proyecto dentro de una estructura que pudiera almacenar el plato con la comida y el sistema embebido, por lo tanto se tomaron las diferentes medidas de los periféricos para poder crear los planos en *CorelDraw* y crear la carcasa en madera gracias al proceso de corte láser.
+
 ## [Ensamble](/Ensamble) :wrench:
+
+En esta sección se muestra el paso a paso de la unión del sistema embebido y el plato que contiene la comida con la carcasa por medio de imágenes que dan evidencia de este proceso. 
+
 
 ## Pruebas de funcionamiento
 
