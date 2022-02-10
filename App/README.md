@@ -8,7 +8,7 @@ Se diseñó una aplicación móvil por medio de la plataforma APPInventor, la cu
 Al momento de iniciar la aplicación, el usuario observa en primer lugar la screen de carga. 
 
 <p align="center">
-  <img src="incio.jpeg" align="center" width = 300>
+  <img src="inicio.jpeg" align="center" width = 250>
 </p>
 
 ### Registro
