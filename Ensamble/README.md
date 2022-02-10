@@ -85,8 +85,28 @@ La conexión entre el ESP32 y la app movil en el dispositivo del usuario se real
 
 ### Conexión APP
 
-Para llevar a cabo la conexión de la APP con el brocker, inicialmente se descarga la librería **UrsPahoMQTTClient** en APPInventor y por medio de la programación en bloques dentro de la plataforma se realizá la conexión al brocker. 
+Para llevar a cabo la conexión de la APP con el brocker, inicialmente se descarga la librería **UrsPahoMQTTClient** en APPInventor y por medio de la programación en bloques dentro de la plataforma y un botón en el main de la App se realizá la conexión al brocker. 
 
 <p align="center">
   <img src="conexion.PNG" align="center" width = 450>
 </p>
+
+De igual forma, 
+
+<p align="center">
+  <img src="comida.PNG" align="center" width = 450>
+</p>
+
+<p align="center">
+  <img src="comida_1.PNG" align="center" width = 450>
+</p>
+
+<p align="center">
+  <img src="estado.PNG" align="center" width = 450>
+</p>
+
+<p align="center">
+  <img src="estado_2.PNG" align="center" width = 450>
+</p>
+
+
