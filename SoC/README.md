@@ -1,4 +1,4 @@
-# Sistema embebido
+# Sistema embebido :computer:
 
 
 ## [Microcontrolador ESP32](/SoC/ESP32/)
