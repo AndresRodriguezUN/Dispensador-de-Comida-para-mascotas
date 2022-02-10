@@ -16,7 +16,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  Con el fin de de justificar el proyecto, se definieron los viajes tanto del cliente como de la mascota y del como intervenia nuestro proyecto en cada uno de los trayectos. Esto permitio resaltar las funcionalidades directas o indirectas que debe cumplir el dispositivo a desarrollar. De esta forma se definieron los perifericos necesarios, ademas del modulo-procesador que se van a utilizar.
  
  
- ## [Flujo de procesos](ref{eee})
+ ## Flujo de procesos
  ![Screenshot](/Imagenes/DiaPEmb1.png)
  
 
@@ -70,6 +70,6 @@ Se diseñó un contenedor (carcasa o caja) la cual permitiera tener el proyecto 
 En esta sección se muestra el paso a paso de la unión del sistema embebido y el plato que contiene la comida con la carcasa por medio de imágenes que dan evidencia de este proceso. 
 
 
-## [Pruebas de funcionamiento](label{eee})
+## Pruebas de funcionamiento
 
 
