@@ -48,12 +48,13 @@ Este bloque de codigo permite extraer el reloj UTC de la web, y luego se acondic
   <img src="/Imagenes/f6.png" align="center" width = 450>
 </p>
 
-
+Y la ultima funcion empleada es la de coordinacion de las horas de alimentacion, asi como la cantidad de raciones al dia que se le sirven a la mascota.
 
 <p align="center">
   <img src="/Imagenes/f7.png" align="center" width = 450>
 </p>
 
+Para mas informacion sobre los codigos remitase a [main.py](/Firmware/main.py)
 
 
 
