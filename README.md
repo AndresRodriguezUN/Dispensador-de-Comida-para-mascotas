@@ -11,7 +11,7 @@ Este es el repositorio del proyecto final de la asignatura Sistemas Emebidos del
  
 Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la mascota está comiendo, además de los horarios que frecuenta el dispositivo. Y de esta manera, puede realizar un análisis de los datos y retroalimentar al usuario por medio de la actualización de los comportamientos de su mascota frente al dispositivo. Permitiendo que no se pierda la conexión que tiene el usuario con su mascota.  
  
- ## [Motivacion](/Motivacion/) :thought_balloon:
+ ## [Motivación](/Motivacion/) :thought_balloon:
  
  Con el fin de de justificar el proyecto, se definieron los viajes tanto del cliente como de la mascota y del como intervenía nuestro proyecto en cada uno de los trayectos. Esto permitio resaltar las funcionalidades directas o indirectas que debe cumplir el dispositivo a desarrollar. De esta forma se definieron los periféricos necesarios, además del módulo-procesador que se van a utilizar.
  
@@ -25,7 +25,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  El sistema embebido se definio gracias al análisis previo de las funcionalidades directas e indirectas del dispositivo, las cuales permitieron decidir los periféricos necesitados para cumplir cada una de las funcionalidades del proyecto.
  
-### Perifericos
+### Periféricos
 
 - [Pantalla OLED - I2C](/Perifericos/OLED)
 
@@ -39,7 +39,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  ![Screenshot](/Imagenes/SoCEmb.png)
  
-  ## Finalidad coordinacion de perifericos :nut_and_bolt:
+  ## Finalidad coordinación de periféricos :nut_and_bolt:
   
   La idea es construir un dispositvo que a determinadas horas del dia ponga a disposición una porcion de comida para nuestra mascota. Esta meta se cumple con las prestaciones que nos ofrece cada uno de los componentes a ensamblar:
   
