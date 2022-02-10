@@ -17,38 +17,35 @@ El firmware de todo el proyecto se desarrolla en micropython, el cual es una ver
 
 
 <p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
+  <img src="/Imagenes/f2.png" align="center" width = 450>
 </p>
 
 
 <p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
+  <img src="/Imagenes/f3.png" align="center" width = 450>
 </p>
 
 
 <p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
+  <img src="/Imagenes/f4.png" align="center" width = 450>
 </p>
 
 
 <p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
+  <img src="/Imagenes/f5.png" align="center" width = 450>
 </p>
 
 
 <p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
+  <img src="/Imagenes/f6.png" align="center" width = 450>
 </p>
 
 
 <p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
+  <img src="/Imagenes/f7.png" align="center" width = 450>
 </p>
 
 
-<p align="center">
-  <img src="/Imagenes/f1.png" align="center" width = 450>
-</p>
 
 
 ## wlan.py
