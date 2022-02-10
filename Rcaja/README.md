@@ -12,19 +12,30 @@ También cabe destacar que se debieron tener en cuenta los espacios de los perif
 Por lo tanto, teniendo en cuenta lo anterior se decidió realizar el proyecto el el programa de *CorelDraw* dando asi los siguientes planos:
 
 <p align="center">
-  <img src="/Imagenes/EsqCaja.jpg" align="center" width = 700>
+  <img src="/Imagenes/EsqCaja.jpg" align="center" width = 650>
 </p>
 
 
 Por último, luego de mandar a cortar una tabla de madera en corte laser se obtuvo el siguiente resultado:
 
-![Screenshot](/Imagenes/esqcaja12.jpeg) 
-![Screenshot](/Imagenes/esqcaja11.jpeg) 
+<p align="center">
+  <img src="/Imagenes/esqcaja12.jpeg" align="center" width = 650>
+</p>
+<p align="center">
+  <img src="/Imagenes/esqcaja11.jpeg" align="center" width = 650>
+</p>
+
 
 Ya con la carcasa ensablada y las paredes pegadas, se puede pasar a colocar el circuito, los perifericos y el plato dentro para comenzar a hacer pruebas.
 
-![Screenshot](/Imagenes/CajaF.jpeg) 
-![Screenshot](/Imagenes/CajaF2.jpeg) 
+
+<p align="center">
+  <img src="/Imagenes/CajaF.jpeg" align="center" width = 650>
+</p>
+<p align="center">
+  <img src="/Imagenes/CajaF2.jpeg" align="center" width = 650>
+</p>
+
 
 
 
