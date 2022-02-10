@@ -17,12 +17,14 @@ En primer lugar se adjuntan las librerias necesarias para el desarrollo del prog
   <img src="/Imagenes/f1.png" align="center" width = 450>
 </p>
 
+Se plantean todas las variables globales que se utilizaran en el codigo para poder editarlas en cada una de las funciones y se puedan utilizar en todo el desarrollo del codigo.
 
 
 <p align="center">
   <img src="/Imagenes/f2.png" align="center" width = 450>
 </p>
 
+En esta seccion se configuran los distintos perifericos de acuerdo a la necesidad que dictaban las correspondientes adecuaciones ya mencionadas.
 
 <p align="center">
   <img src="/Imagenes/f3.png" align="center" width = 450>
