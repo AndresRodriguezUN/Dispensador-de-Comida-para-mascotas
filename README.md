@@ -80,7 +80,7 @@ Para encontrar los videos que se recomiendan a lo largo del repositorio por favo
 
 Se realizaron las siguientes pruebas de funcionamiento del dispositivo y la App.
 
-- [Prueba 1]().
+- [Prueba 1](https://youtu.be/kQyHtM4AsF8).
 - [Prueba 2]().
 
 
