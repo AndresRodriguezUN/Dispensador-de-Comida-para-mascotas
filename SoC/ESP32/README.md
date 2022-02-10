@@ -8,7 +8,7 @@ El microcontrolador ESP32 es un SoC basado en un procesador Xtensa LX6, el cual 
 
 El ESP32-WROOM32 cuenta con 38 pines de los cuales se emplearan UART's, pines digitales y analogicos. Para mas informacion sobre la descripcion de los pines remitirse a [esp32wroom](/Datasheets/esp32-wroom-32_datasheet_en.pdf).
 
-## Adecuacion
+## Adecuación
 
 Si bien el SoC del ESP32-WROOM viene con la adecuación de sus periféricos internos y los módulos que implementa para funcionar. Es necesario realizar la adecuación de este por medio de una serie de resistencias y capacitores para poderlo trabajar correctamente en la práctica. Muchos de los acondicionamientos que se van a listar aqui pueden funcionar para cualquier ESP32, sin embargo cabe resaltar que se realizan para el ESP32-WROOM (para más información puede tomar de guía [esp32wroom](/Datasheets/esp32-wroom-32_datasheet_en.pdf)).
 
@@ -37,7 +37,7 @@ Si bien el SoC del ESP32-WROOM viene con la adecuación de sus periféricos inte
 </p>
 
 
-## Programacion
+## Programación
 
 La programación del ESP32 se realizara por medio de el periférico UART0 que ya presta el SoC. Sin embargo es necesario utilziar un conversor USB-UART para poder cumplir con el fin de comunicación entre el PC y el ESP32. 
 
