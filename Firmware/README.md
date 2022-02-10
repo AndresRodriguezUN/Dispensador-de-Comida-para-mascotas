@@ -11,6 +11,45 @@ El firmware de todo el proyecto se desarrolla en micropython, el cual es una ver
 
 ## main.py
 
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
+
+<p align="center">
+  <img src="f1.png" align="center" width = 450>
+</p>
+
 ## wlan.py
 
 ## OLED.py
