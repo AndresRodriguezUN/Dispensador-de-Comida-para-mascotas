@@ -11,9 +11,12 @@ El firmware de todo el proyecto se desarrolla en micropython, el cual es una ver
 
 ## main.py
 
+En primer lugar se adjuntan las librerias necesarias para el desarrollo del programa, asi como los modulos creados externamente que permiten reducir la cantidad de codigo gracias a la dinamica de programacion orientada a objetos.
+
 <p align="center">
   <img src="/Imagenes/f1.png" align="center" width = 450>
 </p>
+
 
 
 <p align="center">
@@ -50,12 +53,19 @@ El firmware de todo el proyecto se desarrolla en micropython, el cual es una ver
 
 ## wlan.py
 
+El modulo wlan.py importa las librerias pertienentes para establecer la conexion WiFi, por medio de la clave y la contraseña del proveedor del usuario.
+
 ## OLED.py
+
+El modulo OLED.py se ajusta de acuerdo al tamaño del OLED que se esta implementando, asi como un buffer que permite imprimir todo en el OLED al mismo tiempo.
 
 ## DFP.py
 
+El modulo DFP.py se transcribio desde una referencia de un proyecto anteriormente realizado por el grupo. Y se adecuo al entorno de python para que funcionara el envio de datos al DFPlayer Mini.
+
 ## motor.py
 
+El modulo motor.py coordina la activacion de las bobinas del motor paso a paso, segun lo indicado en los videos de referencia del proyecto.
 
 
 
