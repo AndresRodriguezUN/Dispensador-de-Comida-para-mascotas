@@ -70,7 +70,7 @@ Se diseñó un contenedor (carcasa o caja) la cual permitiera tener el dispensad
 En esta sección se muestra el paso a paso de la unión del sistema embebido y el plato que contiene la comida con la carcasa por medio de imágenes que dan evidencia de este proceso. 
 
 
-## Pruebas de funcionamiento y videos de referencia
+## Pruebas de funcionamiento y videos de referencia :clapper:
 
 ### Videos de referencia
 Para encontrar los videos que se recomiendan a lo largo del repositorio por favor dirijase a [videos proyectos pasados](https://www.youtube.com/channel/UCFcKXg10MjH98TOnZhloZSA).
