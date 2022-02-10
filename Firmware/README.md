@@ -42,11 +42,12 @@ Asi mismo es importante establecer la conexion con el Broker MQTT, planteando un
   <img src="/Imagenes/f5.png" align="center" width = 450>
 </p>
 
-
+Este bloque de codigo permite extraer el reloj UTC de la web, y luego se acondiciona con condicionales para ajustarlo a la zona horaria en la cual estamos ubicados.
 
 <p align="center">
   <img src="/Imagenes/f6.png" align="center" width = 450>
 </p>
+
 
 
 <p align="center">
