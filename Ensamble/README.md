@@ -3,9 +3,9 @@
 
 ## Ensamble - Tarjeta, Perifericos y Caja
 
-El ensamble de todas las partes del dispositivo se realizo de la siguiente manera:
+El ensamble de todas las partes del dispositivo se realizó de la siguiente manera:
 
-- En primer lugar despues de juntar y pegar cada una de las piezas de madera de la caja, se emplearon dos visagras para que la tapa superior de la caja fungiera como puerta, lo que permitiera acceder a cada uno de los compartimientos cuando se necesitara suplir con comida el dispensador.
+- En primer lugar, después de juntar y pegar cada una de las piezas de madera de la caja, se emplearon dos visagras para que la tapa superior de la caja fungiera como puerta, lo que permitiera acceder a cada uno de los compartimientos cuando se necesitara suplir con comida el dispensador.
 
 <p align="center">
   <img src="visagras.jpeg" align="center" width = 350>
@@ -17,7 +17,7 @@ El ensamble de todas las partes del dispositivo se realizo de la siguiente maner
   <img src="disipadores.jpeg" align="center" width = 250>
 </p>
 
-- Luego nos dimos cuenta que no habia suficiente grosor para ajustar la tarjeta del proyecto con tornillos de sujecion a la base de la caja, por lo tanto se decidio  colocar 3 soportes de madera que impidieran que la tarjeta se moviera de su lugar.
+- Luego nos dimos cuenta que no habia suficiente grosor para ajustar la tarjeta del proyecto con tornillos de sujeción a la base de la caja, por lo tanto se decidio  colocar 3 soportes de madera que impidieran que la tarjeta se moviera de su lugar.
 
 <p align="center">
   <img src="tarjeta.jpeg" align="center" width = 350>
@@ -35,7 +35,7 @@ El ensamble de todas las partes del dispositivo se realizo de la siguiente maner
   <img src="oledinfra.jpeg" align="center" width = 350>
 </p>
 
-- El sensor PIR se instalo en la parte frontal del dispositivo ya que sera el encargado de detectar el movimiento y si la mascota se acerco al dispositivo a comer.
+- El sensor PIR se instalo en la parte frontal del dispositivo ya que será el encargado de detectar el movimiento y si la mascota se acercó al dispositivo a comer.
 
 <p align="center">
   <img src="pir.jpeg" align="center" width = 350>
@@ -47,7 +47,7 @@ El ensamble de todas las partes del dispositivo se realizo de la siguiente maner
   <img src="dfppar.jpeg" align="center" width = 350>
 </p>
 
-- Sobre el motor paso a paso se instalo un plato desechable con un base de madera para que se ajustara al rotor del motor y pudiera girar.
+- Sobre el motor paso a paso se instaló un plato desechable con un base de madera para que se ajustara al rotor del motor y pudiera girar.
 
 <p align="center">
   <img src="soporte.jpeg" align="center" width = 350>
@@ -59,7 +59,7 @@ El ensamble de todas las partes del dispositivo se realizo de la siguiente maner
   <img src="switch.jpeg" align="center" width = 350>
 </p>
 
-- Sobre las paredes de la caja se pusieron soportes de madera para que el plato pudiese descansar sobre estos y mantuviera una posicion horizontal a lo largo de su movimiento.
+- Sobre las paredes de la caja se pusieron soportes de madera para que el plato pudiese descansar sobre estos y mantuviera una posición horizontal a lo largo de su movimiento.
 
 <p align="center">
   <img src="soportesPlato.jpeg" align="center" width = 350>
