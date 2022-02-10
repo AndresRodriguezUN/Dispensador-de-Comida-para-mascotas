@@ -91,14 +91,14 @@ Para llevar a cabo la conexión de la APP con el brocker, inicialmente se descar
   <img src="conexion.PNG" align="center" width = 450>
 </p>
 
-De igual forma, 
-
-<p align="center">
-  <img src="comida.PNG" align="center" width = 450>
-</p>
+De igual forma por medio de la programación de bloques, al momento que la App se conecta con el broker se publican en este el valor correspondiente del número de comidas establecidas por el usuario, la hora correspondiente a las comidas y el tipo de mascota, cada uno de estos valores en un topic independiente. A continucación se pueden observar unos ejemplo de la programación en bloques para realizar esta tarea:
 
 <p align="center">
   <img src="comida_1.PNG" align="center" width = 450>
+</p>
+
+<p align="center">
+  <img src="comida.PNG" align="center" width = 450>
 </p>
 
 <p align="center">
