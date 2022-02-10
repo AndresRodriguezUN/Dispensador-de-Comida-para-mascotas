@@ -32,7 +32,7 @@ Para el proyecto se decidio implementar un circuito impreso, el cual debera cont
 
 - [Esquematico](/SoC/CircuitoImpreso#esquematico---kicad)
 - [Asignacion de Footprints](/SoC/CircuitoImpreso#asignaci%C3%B3n-de-footprints)
-- [PCB](/SoC/CircuitoImpreso#pcb---kicad)
+- [PCB](/Dispensador-de-Comida-para-mascotas/tree/main/SoC/CircuitoImpreso#pcb---kicad)
 - [Pedido](/SoC/CircuitoImpreso#pedido---fabricante-chino)
 
 ## [Soldadura y Resultado](/SoC/Soldadura)
