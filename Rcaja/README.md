@@ -11,6 +11,9 @@ También cabe destacar que se debieron tener en cuenta los espacios de los perif
 
 Por lo tanto, teniendo en cuenta lo anterior se decidió realizar el proyecto el el programa de *CorelDraw* dando asi los siguientes planos:
 
+<p align="center">
+  <img src="/Imagenes/EsqCaja.jpg" align="center" width = 300>
+</p>
 ![Screenshot](/Imagenes/EsqCaja.jpg) 
 
 Por último, luego de mandar a cortar una tabla de madera en corte laser se obtuvo el siguiente resultado:
