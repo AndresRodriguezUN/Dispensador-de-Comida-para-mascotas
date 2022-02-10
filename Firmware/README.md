@@ -36,11 +36,12 @@ Dado que se utilizo un Broker Mosquito para la comunicacion con la aplicacion, e
   <img src="/Imagenes/f4.png" align="center" width = 450>
 </p>
 
-
+Asi mismo es importante establecer la conexion con el Broker MQTT, planteando un usuario y unos topicos de recepcion como de transmision de datos.
 
 <p align="center">
   <img src="/Imagenes/f5.png" align="center" width = 450>
 </p>
+
 
 
 <p align="center">
