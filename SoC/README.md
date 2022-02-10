@@ -2,14 +2,14 @@
 
 
 ## [Microcontrolador ESP32](/SoC/ESP32/)
-Se implemento un microcontrolador ESP32-WROOM, el cual se encargara de coordinar los diferentes perifericos a implementar. Igualmente, gracias a su periferico de WiFi se podran utilizar las comunicaciones inalambricas en lo que respecta a la conexion con la App de control.
+Se implementó un microcontrolador ESP32-WROOM, el cual se encargara de coordinar los diferentes periféricos a implementar. Igualmente, gracias a su periférico de WiFi se podrán utilizar las comunicaciones inalámbricas en lo que respecta a la conexión con la App de control.
 
 - [Adecuacion y acondicionamiento](/SoC/ESP32#adecuacion)
 - [Programacion](/SoC/ESP32#programacion)
 
-## Perifericos
+## Periféricos
 
-En base al sistema embebido definido previamente se llego a la conclusion que los perifericos necesarios para cumplir con las funcionalidades directas del dispositivo son:
+En base al sistema embebido definido previamente, se llegó a la conclusión que los periféricos necesarios para cumplir con las funcionalidades directas del dispositivo son:
 
 - [Pantalla OLED - I2C](/Perifericos/OLED)
 
@@ -21,14 +21,14 @@ En base al sistema embebido definido previamente se llego a la conclusion que lo
 
 - [DFPlayer Mini](/Perifericos/DFPlayer)
 
-## [Regulacion de tension](/Regulador)
+## [Regulación de tensión](/Regulador)
 
-Dado que en proyecto se utiliza un ESP32-WROOM, este necesita una tension de 3.3V para funcionar y por otro lado se necesitan 5V para poner en funcionamiento un motor paso a paso que se encargara de las prestaciones mecanicas del dispositivo. Por lo tanto se implementan dos reguladores de tension en la tarjeta que se desarrolle.
+Dado que en proyecto se utiliza un ESP32-WROOM, este necesita una tensión de 3.3V para funcionar y por otro lado se necesitan 5V para poner en funcionamiento un motor paso a paso que se encargara de las prestaciones mecanicas del dispositivo. Por lo tanto se implementan dos reguladores de tension en la tarjeta que se desarrolle.
 
 
 ## [Circuito Impreso](/SoC/CircuitoImpreso)
 
-Para el proyecto se decidio implementar un circuito impreso, el cual debera contar con el microcontrolador y los diferentes acondicionamiento necesarios para el manejo y control de los distintos perifericos a emplear.
+Para el proyecto se decidio implementar un circuito impreso, el cual debera contar con el microcontrolador y los diferentes acondicionamientos necesarios para el manejo y control de los distintos periféricos a emplear.
 
 - [Esquematico](/SoC/CircuitoImpreso#esquematico---kicad)
 - [Asignacion de Footprints](/SoC/CircuitoImpreso#asignacion-de-footprints)
