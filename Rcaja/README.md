@@ -12,7 +12,7 @@ También cabe destacar que se debieron tener en cuenta los espacios de los perif
 Por lo tanto, teniendo en cuenta lo anterior se decidió realizar el proyecto el el programa de *CorelDraw* dando asi los siguientes planos:
 
 <p align="center">
-  <img src="/Imagenes/EsqCaja.jpg" align="center" width = 300>
+  <img src="/Imagenes/EsqCaja.jpg" align="center" width = 700>
 </p>
 
 
