@@ -39,7 +39,7 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
  
  ![Screenshot](/Imagenes/SoCEmb.png)
  
-  ## Finalidad coordinacion de perifericos
+  ## Finalidad coordinacion de perifericos :nut_and_bolt:
   
   La idea es construir un dispositvo que a determinadas horas del dia ponga a disposicion una porcion de comida para nuestra mascota. Esta meta se cumple con las prestaciones que nos ofrece cada uno de los componentes a ensamblar:
   
@@ -54,15 +54,15 @@ Por otro lado, el dispositivo cuenta con sensores que permiten detectar si la ma
 Al tener todo coordinado se espera que se cumpla la finalidad del proyecto satisfactoriamente.
   
 
-## [Firmware](/Firmware)
+## [Firmware](/Firmware) :computer:
 
 El firmware de todo el proyecto se desarrolla en micropython, el cual es una version renderizada de python para poder ejecutarse en microcontroladores como lo es el ESP32. Se decidio utilizar micropython debido a su practicidad y la documentacion amplia que tiene en distintos repositorios. Con respecto al ESP32 cabe destacar que se debe flashear con micropython para que todos los codigos en python que se deseen emplear se ejecuten a la perfeccion. Para mas informacion sobre el manejo de micropython junto al ESP32 por favor remitase a [micropython-esp32](https://docs.micropython.org/en/latest/esp32/tutorial/index.html).
 
-## [App](/App)
+## [App](/App) :calling:
 
-## [Diseño Caja](/Rcaja)
+## [Diseño Caja](/Rcaja) :triangular_ruler: :package:
 
-## [Ensamble](/Ensamble)
+## [Ensamble](/Ensamble) :wrench:
 
 ## Pruebas de funcionamiento
 
