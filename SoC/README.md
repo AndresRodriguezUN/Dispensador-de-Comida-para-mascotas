@@ -31,9 +31,9 @@ Dado que en proyecto se utiliza un ESP32-WROOM, este necesita una tension de 3.3
 Para el proyecto se decidio implementar un circuito impreso, el cual debera contar con el microcontrolador y los diferentes acondicionamiento necesarios para el manejo y control de los distintos perifericos a emplear.
 
 - [Esquematico](/SoC/CircuitoImpreso#esquematico---kicad)
-- [Asignacion de Footprints](/SoC/CircuitoImpreso)
-- [PCB](/SoC/CircuitoImpreso)
-- [Pedido](/SoC/CircuitoImpreso)
+- [Asignacion de Footprints](/SoC/CircuitoImpreso#asignacion-de-footprints)
+- [PCB](/SoC/CircuitoImpreso#pcb---kicad)
+- [Pedido](/SoC/CircuitoImpreso#pedido---fabricante-chino)
 
 ## [Soldadura y Resultado](/SoC/Soldadura)
 
