@@ -30,10 +30,12 @@ En esta seccion se configuran los distintos perifericos de acuerdo a la necesida
   <img src="/Imagenes/f3.png" align="center" width = 450>
 </p>
 
+Dado que se utilizo un Broker Mosquito para la comunicacion con la aplicacion, es necesario plantear la logica de recepcion de datos.
 
 <p align="center">
   <img src="/Imagenes/f4.png" align="center" width = 450>
 </p>
+
 
 
 <p align="center">
