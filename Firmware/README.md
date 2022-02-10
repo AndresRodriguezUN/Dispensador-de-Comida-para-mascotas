@@ -3,6 +3,12 @@ El firmware de todo el proyecto se desarrolla en micropython, el cual es una ver
 
 ## Funcionalidad deseada
 
+- Motor: Encargado de la rotación del plato en el cual estan alojadas cada una de las porciones de comida.
+- OLED: Encargado de dar una retroalimentación visual, en el dispositivo, del estado de la mascota.
+- DFP y Parlante: Encargados de reproducir una pista de audio que avise a la mascota cuando llegue la hora de comer.
+- PIR: Encargado de detectar si la mascota se acerca al dispositivo dispensador de comida, para evaluar indirectamente su estado de ánimo.
+- Infrarrojo: Encargado de detectar si la mascota ha comido alguna parte de su ración, para evaluar indirectamente su estado de ánimo.
+
 ## main.py
 
 ## wlan.py
