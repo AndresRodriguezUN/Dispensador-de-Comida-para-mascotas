@@ -74,7 +74,7 @@ Se utilizaron conectores de diferente cantidad de pines para poder ajustar los p
   <img src="perifGene.png" align="center" width = 550>
 </p>
 
-## Asignacion de Footprints
+## Asignación de Footprints
 Antes de continuar con la generacion de la PCB y la NetList, se asignan las footprint para cada uno de los elementos que se implementaron en el montaje del circuito impreso. En este paso se debe tener en cuenta los componentes que se van a comprar y las dimensiones, para que de esta forma se puedan realizar una correcta seleccion de cada uno de los footprints asociados (y que no vayan a haber problemas a futuro por una mal encuadre de dimensiones).
 
 <p align="center">
