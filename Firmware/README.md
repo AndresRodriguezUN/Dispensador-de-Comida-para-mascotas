@@ -17,5 +17,9 @@ El firmware de todo el proyecto se desarrolla en micropython, el cual es una ver
 
 ## DFP.py
 
+## motor.py
+
+
+
 
 
